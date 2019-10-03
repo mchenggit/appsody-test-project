@@ -1,3 +1,4 @@
+/* test*/
 package it.dev.appsody.starter;
 
 import static org.junit.Assert.assertEquals;
